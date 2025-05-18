@@ -15,7 +15,7 @@ A collection of survey papers focusing on hallucination in large language models
 + [A Survey on Hallucination in Large Vision-Language Models] (2024.02) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.00253)
 ---
 
-## 📊 Video Hallucination Benchmarks
+## 📈 Video Hallucination Benchmarks
 
 A list of datasets and evaluation frameworks designed to assess hallucination in video-grounded MLLMs.
 
